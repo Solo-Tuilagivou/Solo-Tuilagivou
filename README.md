@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Solo-Tuilagivou
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and Javascript, Django, UX and UI design and ReactJS
-- 💞️ I’m looking to collaborate on any web dev based projects
-- 📫 How to reach me : tuilagivousolo@gmail.com
-
-<!---
-Solo-Tuilagivou/Solo-Tuilagivou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Currently a software developer with a tech stack for web development 
+- I've worked mainly with web based applications, essentially in a full stack capacity.
+- Working at Traseable Solutions Ltd.
+- Proficient languages include the following: HTML, CSS, Javascript, PHP, PostgreSQL
+- Frameworks I have worked with include Laravel, Ionic and React.js
+- I have handled Linux servers and command lines on both Linux and Windows respectively
+- Started coding at 17 with a desktop customization app known as Rainmeter, went on to create my own widgets and aesthetic from scratch.
+- Currently into improving my skills as a developer i.e. learning more on Javascript and the React framework
+- Insofar as general programming goes I'd like to improve my knowledge base on Data Structures and Algorithms.
